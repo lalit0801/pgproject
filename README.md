@@ -45,3 +45,9 @@ User can choose problem according to their system and can find solution.
 User can update or change the user account details like as change the user name, change the password, change the email address.
 5.	Delete User:
 We can delete the user detail or delete the user by going in to the registration table.
+
+How to run the project?
+Steps: 1.After getting access of file, copy it into your c drive. 
+2.  Go to the file, open command prompt.
+ 3. Type "python manage.py runserver" 
+4. Go to your local browser and open localhost:8000 server to see final output.
